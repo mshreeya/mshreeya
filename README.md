@@ -10,8 +10,8 @@
 ```py
 {
     name: 'Shreeya Mishra',
-    education: '2nd year IT undergrad at IIIT Bhubaneswar, India',
-    currentlyWorkingOn: 'DS/ML enthusiast',
+    education: '4th year IT undergrad at IIIT Bhubaneswar, India',
+    currentlyWorkingOn: 'a backend developer and DS/ML enthusiast',
     societies: ['Tech', 'Metaverse', 'Cult'],
 }
 ```
